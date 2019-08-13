@@ -1,6 +1,5 @@
 const processFileLines = require('../process-file-lines');
 
-
 processFileLines('./process-file-lines.js', (line) => {
     console.log(line);
 })
