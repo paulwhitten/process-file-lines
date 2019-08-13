@@ -1,0 +1,26 @@
+{
+  "name": "process-file-lines",
+  "version": "1.0.0",
+  "description": "Process the lines in a file",
+  "main": "process-file-lines.js",
+  "files": [
+    "process-file-lines.js"
+  ],
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulwhitten/process-file-lines.git"
+  },
+  "author": "pcw@case.edu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulwhitten/process-file-lines/issues"
+  },
+  "homepage": "https://github.com/paulwhitten/process-file-lines#readme",
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "jest": "^24.8.0"
+  }
+}
