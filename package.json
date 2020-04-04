@@ -1,6 +1,6 @@
 {
   "name": "process-file-lines",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Process the lines in a file",
   "main": "process-file-lines.js",
   "files": [
@@ -18,9 +18,5 @@
   "bugs": {
     "url": "https://github.com/paulwhitten/process-file-lines/issues"
   },
-  "homepage": "https://github.com/paulwhitten/process-file-lines#readme",
-  "devDependencies": {
-    "eslint": "^6.1.0",
-    "jest": "^24.8.0"
-  }
+  "homepage": "https://github.com/paulwhitten/process-file-lines#readme"
 }
